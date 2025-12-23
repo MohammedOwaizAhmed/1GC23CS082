@@ -7,5 +7,5 @@ Subject Name: Project Management with GIT
 Subject Code: BSC358c
 Acadamic Year: 2025
 Mobile No: 8660815304
-Email ID: owaiz@gmail.com
+
 
