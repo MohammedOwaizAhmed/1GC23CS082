@@ -1,0 +1,9 @@
+Title: Mr
+Full Name: mohammed owaiz ahmed
+USN: 1GC23CS082
+Sem: Third
+Sec: B
+Branch: CSE
+Year:2025
+College: GCE
+
