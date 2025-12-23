@@ -5,5 +5,7 @@ Sem: Third
 Sec: B
 Branch: CSE
 Year:2025
-College: GCE
+School: Universal high school
+PU: Shanthiniketan College
+UG Degree: GCE
 
